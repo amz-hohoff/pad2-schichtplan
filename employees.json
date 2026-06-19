@@ -1,66 +1,6 @@
 [
   {
-    "login": "alexejbr",
-    "group": "A"
-  },
-  {
-    "login": "bnycinar",
-    "group": "A"
-  },
-  {
-    "login": "cunalcan",
-    "group": "A"
-  },
-  {
-    "login": "derkai",
-    "group": "A"
-  },
-  {
-    "login": "ftakou",
-    "group": "A"
-  },
-  {
     "login": "hohoff",
-    "group": "A"
-  },
-  {
-    "login": "ismsal",
-    "group": "A"
-  },
-  {
-    "login": "johagand",
-    "group": "A"
-  },
-  {
-    "login": "kadbo",
-    "group": "A"
-  },
-  {
-    "login": "knickman",
-    "group": "A"
-  },
-  {
-    "login": "marsieg",
-    "group": "A"
-  },
-  {
-    "login": "merden",
-    "group": "A"
-  },
-  {
-    "login": "nitempel",
-    "group": "A"
-  },
-  {
-    "login": "phsiebr",
-    "group": "A"
-  },
-  {
-    "login": "sulymann",
-    "group": "A"
-  },
-  {
-    "login": "timhoss",
     "group": "A"
   },
   {
@@ -68,39 +8,71 @@
     "group": "A"
   },
   {
+    "login": "sulymann",
+    "group": "A"
+  },
+  {
+    "login": "knickman",
+    "group": "A"
+  },
+  {
+    "login": "derkai",
+    "group": "A"
+  },
+  {
+    "login": "alexejbr",
+    "group": "A"
+  },
+  {
+    "login": "ismsal",
+    "group": "A"
+  },
+  {
+    "login": "marsieg",
+    "group": "A"
+  },
+  {
+    "login": "ftakou",
+    "group": "A"
+  },
+  {
     "login": "wegnalex",
     "group": "A"
   },
   {
-    "login": "aarningl",
-    "group": "B"
+    "login": "nitempel",
+    "group": "A"
   },
   {
-    "login": "abdelgul",
-    "group": "B"
+    "login": "bnycinar",
+    "group": "A"
   },
   {
-    "login": "danifri",
-    "group": "B"
+    "login": "merden",
+    "group": "A"
   },
   {
-    "login": "edwinbgn",
-    "group": "B"
+    "login": "johagand",
+    "group": "A"
   },
   {
-    "login": "eminkul",
-    "group": "B"
+    "login": "phsiebr",
+    "group": "A"
+  },
+  {
+    "login": "timhoss",
+    "group": "A"
+  },
+  {
+    "login": "cunalcan",
+    "group": "A"
+  },
+  {
+    "login": "kadbo",
+    "group": "A"
   },
   {
     "login": "fdei",
-    "group": "B"
-  },
-  {
-    "login": "giullang",
-    "group": "B"
-  },
-  {
-    "login": "hungerma",
     "group": "B"
   },
   {
@@ -108,31 +80,7 @@
     "group": "B"
   },
   {
-    "login": "jojoneu",
-    "group": "B"
-  },
-  {
-    "login": "justklas",
-    "group": "B"
-  },
-  {
-    "login": "kaanazmi",
-    "group": "B"
-  },
-  {
-    "login": "kjbinoy",
-    "group": "B"
-  },
-  {
-    "login": "lippertv",
-    "group": "B"
-  },
-  {
-    "login": "lutzbetk",
-    "group": "B"
-  },
-  {
-    "login": "marvsch",
+    "login": "hungerma",
     "group": "B"
   },
   {
@@ -140,7 +88,47 @@
     "group": "B"
   },
   {
+    "login": "marvsch",
+    "group": "B"
+  },
+  {
+    "login": "lippertv",
+    "group": "B"
+  },
+  {
+    "login": "jojoneu",
+    "group": "B"
+  },
+  {
+    "login": "danifri",
+    "group": "B"
+  },
+  {
+    "login": "abdelgul",
+    "group": "B"
+  },
+  {
+    "login": "giullang",
+    "group": "B"
+  },
+  {
+    "login": "justklas",
+    "group": "B"
+  },
+  {
     "login": "schigatp",
+    "group": "B"
+  },
+  {
+    "login": "lutzbetk",
+    "group": "B"
+  },
+  {
+    "login": "kaanazmi",
+    "group": "B"
+  },
+  {
+    "login": "edwinbgn",
     "group": "B"
   },
   {
@@ -148,15 +136,23 @@
     "group": "B"
   },
   {
-    "login": "andklase",
-    "group": "C"
+    "login": "aarningl",
+    "group": "B"
   },
   {
-    "login": "asadgoez",
-    "group": "C"
+    "login": "kjbinoy",
+    "group": "B"
+  },
+  {
+    "login": "eminkul",
+    "group": "B"
   },
   {
     "login": "cetinem",
+    "group": "C"
+  },
+  {
+    "login": "andklase",
     "group": "C"
   },
   {
@@ -164,15 +160,11 @@
     "group": "C"
   },
   {
-    "login": "deavmu",
+    "login": "lwilleke",
     "group": "C"
   },
   {
-    "login": "espoandr",
-    "group": "C"
-  },
-  {
-    "login": "floobre",
+    "login": "asadgoez",
     "group": "C"
   },
   {
@@ -180,31 +172,7 @@
     "group": "C"
   },
   {
-    "login": "jrejonas",
-    "group": "C"
-  },
-  {
-    "login": "lwilleke",
-    "group": "C"
-  },
-  {
-    "login": "matdet",
-    "group": "C"
-  },
-  {
-    "login": "mmogge",
-    "group": "C"
-  },
-  {
-    "login": "nicomors",
-    "group": "C"
-  },
-  {
-    "login": "oezcnmua",
-    "group": "C"
-  },
-  {
-    "login": "oryilmaz",
+    "login": "espoandr",
     "group": "C"
   },
   {
@@ -212,7 +180,15 @@
     "group": "C"
   },
   {
-    "login": "timlc",
+    "login": "oryilmaz",
+    "group": "C"
+  },
+  {
+    "login": "deavmu",
+    "group": "C"
+  },
+  {
+    "login": "mmogge",
     "group": "C"
   },
   {
@@ -220,7 +196,31 @@
     "group": "C"
   },
   {
+    "login": "nicomors",
+    "group": "C"
+  },
+  {
+    "login": "jrejonas",
+    "group": "C"
+  },
+  {
+    "login": "oezcnmua",
+    "group": "C"
+  },
+  {
+    "login": "matdet",
+    "group": "C"
+  },
+  {
     "login": "uadribor",
+    "group": "C"
+  },
+  {
+    "login": "timlc",
+    "group": "C"
+  },
+  {
+    "login": "floobre",
     "group": "C"
   }
 ]
