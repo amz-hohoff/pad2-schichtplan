@@ -56,10 +56,6 @@
     "group": "A"
   },
   {
-    "login": "phsiebr",
-    "group": "A"
-  },
-  {
     "login": "timhoss",
     "group": "A"
   },
@@ -100,7 +96,7 @@
     "group": "B"
   },
   {
-    "login": "danifri",
+    "login": "aarningl",
     "group": "B"
   },
   {
@@ -112,11 +108,15 @@
     "group": "B"
   },
   {
+    "login": "schigatp",
+    "group": "B"
+  },
+  {
     "login": "justklas",
     "group": "B"
   },
   {
-    "login": "schigatp",
+    "login": "deavmu",
     "group": "B"
   },
   {
@@ -136,7 +136,7 @@
     "group": "B"
   },
   {
-    "login": "aarningl",
+    "login": "danifri",
     "group": "B"
   },
   {
@@ -168,7 +168,7 @@
     "group": "C"
   },
   {
-    "login": "jonkorm",
+    "login": "nicomors",
     "group": "C"
   },
   {
@@ -184,7 +184,7 @@
     "group": "C"
   },
   {
-    "login": "deavmu",
+    "login": "oezcnmua",
     "group": "C"
   },
   {
@@ -196,15 +196,11 @@
     "group": "C"
   },
   {
-    "login": "nicomors",
+    "login": "jonkorm",
     "group": "C"
   },
   {
     "login": "jrejonas",
-    "group": "C"
-  },
-  {
-    "login": "oezcnmua",
     "group": "C"
   },
   {
@@ -216,11 +212,11 @@
     "group": "C"
   },
   {
-    "login": "timlc",
+    "login": "floobre",
     "group": "C"
   },
   {
-    "login": "floobre",
+    "login": "timlc",
     "group": "C"
   }
 ]
