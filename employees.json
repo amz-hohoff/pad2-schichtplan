@@ -12,6 +12,10 @@
     "group": "A"
   },
   {
+    "login": "lippertv",
+    "group": "A"
+  },
+  {
     "login": "knickman",
     "group": "A"
   },
@@ -52,6 +56,10 @@
     "group": "A"
   },
   {
+    "login": "cunalcan",
+    "group": "A"
+  },
+  {
     "login": "johagand",
     "group": "A"
   },
@@ -60,7 +68,7 @@
     "group": "A"
   },
   {
-    "login": "cunalcan",
+    "login": "yunusbkt",
     "group": "A"
   },
   {
@@ -88,10 +96,6 @@
     "group": "B"
   },
   {
-    "login": "lippertv",
-    "group": "B"
-  },
-  {
     "login": "jojoneu",
     "group": "B"
   },
@@ -101,10 +105,6 @@
   },
   {
     "login": "abdelgul",
-    "group": "B"
-  },
-  {
-    "login": "giullang",
     "group": "B"
   },
   {
@@ -160,6 +160,10 @@
     "group": "C"
   },
   {
+    "login": "dimihaar",
+    "group": "C"
+  },
+  {
     "login": "lwilleke",
     "group": "C"
   },
@@ -205,6 +209,14 @@
   },
   {
     "login": "matdet",
+    "group": "C"
+  },
+  {
+    "login": "albanfet",
+    "group": "C"
+  },
+  {
+    "login": "rubenprd",
     "group": "C"
   },
   {
